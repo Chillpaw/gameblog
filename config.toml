@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "http://127.0.0.1:1111"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -14,3 +14,5 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+theme = "anemone"
